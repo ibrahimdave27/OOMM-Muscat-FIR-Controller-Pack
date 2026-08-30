@@ -192,6 +192,10 @@ HTTP_GRIB_Longitude_Max=70
 HTTP_GRIB_Longitude_Min=50
 
 Shortcut_RadarMenu_Combo=0x12
+Shortcut_Map_Xfr_Key=1,0x4D ; M
+Shortcut_Map_Target=1,ASP SURV MIN ALT\OOMS SURV MIN ALT
+
+Shortcut_RadarMenu_Combo=0x12
 
 CPDLC_Default = 1
 CPDLC_MinLevel=315
