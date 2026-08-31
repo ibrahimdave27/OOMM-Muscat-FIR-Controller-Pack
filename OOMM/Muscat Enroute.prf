@@ -61,7 +61,7 @@ Sounds	Sound17	\OOMM\Sounds\pointout.wav
 Sounds	Sound18	\OOMM\Sounds\startup.wav
 Plugins	Plugin0	\OOMM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 Plugins	Plugin1	\OOMM\Plugins\Discord Euroscope\DiscordEuroscope.dll
-Plugins	Plugin2	\OOMM\Plugins\TopSky Enroute\TopSky.dll
+Plugins	Plugin2	\OOMM\Plugins\TopSky\TopSky Enroute\TopSky.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin3	\OOMM\Plugins\Ground Radar Plugin\GRplugin.dll
 Plugins	Plugin3Display0	Ground Radar display
